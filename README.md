@@ -1,4 +1,4 @@
-**Juego: Adivina el Número**
+<h1 align="center"> Juego: Adivina el numero </h1>
 
 **Descripción**  
 Este proyecto es un juego simple desarrollado con HTML, CSS, y JavaScript, en el que el usuario intenta adivinar un número secreto generado por la computadora. La computadora proporciona pistas, indicando si el número secreto es mayor o menor que el número ingresado por el usuario. Es ideal para aprender sobre lógica básica en programación y la interacción con el DOM en JavaScript.
