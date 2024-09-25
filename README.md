@@ -16,17 +16,17 @@ Este proyecto es un juego simple desarrollado con HTML, CSS, y JavaScript, en el
 
 **Instrucciones de Uso**  
 
-1. **Abrir el Enlace**  
+1. **Abrir el enlace**  
    Abre el enlace del juego en tu navegador.
 
-2. **Adivinar el Número**  
+2. **Adivinar el número**  
    - Piensa en un número entre 1 y 10.
    - Ingresa tu suposición en el cuadro de texto.
 
-3. **Recibir Pistas**  
+3. **Recibir pistas**  
    La computadora te dirá si el número secreto es mayor o menor que tu suposición.
 
-4. **Seguir Adivinando**  
+4. **Seguir adivinando**  
    Continúa ingresando números hasta adivinar correctamente.
 
 **Contribuciones**  
@@ -34,3 +34,6 @@ Las contribuciones son bienvenidas. Si deseas mejorar el juego, puedes hacer un 
 
 **Autora**  
 Sandra Lucía Corredor Tarquino - [Perfil de GitHub](https://github.com/SandraCorredor)
+
+**Agradecimientos**
+Este proyecto fue realizado con la ayuda de Alura Latam, una plataforma de aprendizaje en línea que ofrece cursos de tecnología y programación.
